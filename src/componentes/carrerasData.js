@@ -124,6 +124,7 @@ export default function CarrerasData(){
 
     carrerasArray[0]={
       name: 'Ingenieria-en-Innovacion-Agricola-Sustentable',
+      link: 'http://tecmm.edu.mx/Carrera/Ingenieria-en-Innovacion-Agricola-Sustentable',
       card:CardIngInnovacionAgricola,
       portada: IngInnovacionAgricola,
       youtube:'qvIWinTFRzo',
@@ -152,6 +153,7 @@ export default function CarrerasData(){
 
     carrerasArray[1]={
       name: 'Ingenieria-en-Administracion',
+      link: 'http://tecmm.edu.mx/Carrera/Ingenieria-en-Administracion',
       card:CardIngAdministracion,
       portada: IngAdministracion,
       youtube:'SiklbYKU46E',
@@ -240,6 +242,7 @@ export default function CarrerasData(){
 
     carrerasArray[4]={
       name: 'Arquitectura',
+      link: 'http://tecmm.edu.mx/Carrera/Arquitectura',
       card:CardArquitectura,
       portada: Arquitectura,
       youtube:'1Vt2xyS547s',
@@ -452,6 +455,7 @@ export default function CarrerasData(){
 
     carrerasArray[12]={
       name: 'Ingenieria-Industrial',
+      link: 'http://tecmm.edu.mx/Carrera/Ingenieria-Industrial',
       card:CardIngIndustrial,
       portada: IngIndustrial,
       youtube:'8GONm_MoLLs',
@@ -572,6 +576,7 @@ export default function CarrerasData(){
 
     carrerasArray[16]={
       name: 'Ingenieria-en-Sistemas-Computacionales',
+      link: 'http://tecmm.edu.mx/Carrera/Ingenieria-en-Sistemas-Computacionales',
       card:CardIngSistemas,
       portada: IngSistemas,
       youtube:'Hw3TO2ZKKto',

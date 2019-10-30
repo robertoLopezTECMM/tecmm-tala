@@ -38,7 +38,7 @@ class Footer extends Component{
               <a href="http://tecmm.edu.mx/modeloAcademico">MODELO ACADEMICO</a>
               <a href="http://tecmm.edu.mx/quienesSomos">IDENTIDAD</a>
               <a href="http://tecmm.edu.mx">DIRECCIÓN GENERAL</a>
-              <a href="http://tecmm.edu.mx/campus" >RED DE CAMPUS</a>
+              <a href="http://tecmm.edu.mx/unidadesAcademicas" >RED DE CAMPUS</a>
               <a href="http://tecmm.edu.mx/building">NOTICIAS</a>
               <a href="http://tecmm.edu.mx/Contacto">CONTACTO</a>
               <a href="http://tecmm.edu.mx/contraloriaSocial">CONTRALORÍA SOCIAL</a>

@@ -80,8 +80,8 @@ import './styles/carousel.css';
                 <button  className="btn1Oferta">OFERTA<br/>ACADÉMICA</button>
               </a>
 
-              <a href="http://tecmm.edu.mx/#/campus">
-                <button className="btn2Campus">RED DE CAMPUS<br/>EN JALISCO</button>
+              <a href="http://tecmm.edu.mx/unidadesAcademicas">
+                <button className="btn2Campus">EN JALISCO por UNIDADES ACADEMICAS TECMM</button>
               </a>
 
               <a href="http://controlescolar.tecmm.edu.mx/">
