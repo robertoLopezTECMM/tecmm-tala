@@ -37,7 +37,7 @@ import './styles/carousel.css';
       this.state={
         modalVisible : false,
         carouselImages:[
-          {image: 'http://tecmm.edu.mx/imagesReact/images/carousel/enneit.jpg', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/enneit.jpg', description:'ahorita no joven', link:'http://tecmm.edu.mx/#/eneit'},
+          {image: 'http://tala.tecmm.edu.mx/imagenes/carousel/banner-convocatoriaDocente.png', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/enneit.jpg', description:'ahorita no joven', link:'http://tala.tecmm.edu.mx/documentos/convocatoriaDocentes-2019.pdf'},
           {image: 'http://tecmm.edu.mx/imagesReact/images/carousel/convocatoria-video-2019.jpg', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/enneit.jpg', description:'ahorita no joven', link:'http://tecmm.edu.mx/imagesReact/images/carousel/documentos/convocatoria-video-2019.pdf'},
           //{image: 'http://tecmm.edu.mx/imagesReact/images/carousel/CONDONACIONES-2019-2020.jpg', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/CONDONACIONES-2019-2020.jpg', description:'ahorita no joven', link:'http://tecmm.edu.mx/imagesReact/images/carousel/documentos/CONDONACIONES-2019-2020.pdf'},
           //{image: 'http://tecmm.edu.mx/imagesReact/images/carousel/SEGUNDO-EXAMEN-2019.jpg', name: 'http://tecmm.edu.mx/imagesReact/images/carousel/SEGUNDO-EXAMEN-2019.jpg', description:'ahorita no joven', link:'http://tecmm.edu.mx/imagesReact/images/carousel/documentos/SEGUNDO-EXAMEN-2019.pdf'},
@@ -81,7 +81,9 @@ import './styles/carousel.css';
               </a>
 
               <a href="http://tecmm.edu.mx/unidadesAcademicas">
-                <button className="btn2Campus">EN JALISCO por UNIDADES ACADEMICAS TECMM</button>
+                <button className="btn2Campus">
+
+                UNIDADES ACADEMICAS TECMM</button>
               </a>
 
               <a href="http://controlescolar.tecmm.edu.mx/">
